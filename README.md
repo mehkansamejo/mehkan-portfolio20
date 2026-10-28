@@ -40,3 +40,4 @@ My portfolio is a responsive and animated personal website built to introduce my
 - **Movie Recommendation System** — A project for discovering movies using recommendation techniques.
 - **Customer Segmentation** — Exploring customer groups using clustering.
 - **Resume Analyzer** — A
+- welcome to my profile
